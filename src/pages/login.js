@@ -31,8 +31,6 @@ const styles = {
 
 };  
 
-
-
 class login extends Component {
   constructor() {
     super();
